@@ -33,7 +33,7 @@ exec --no-startup-id i3-msg 'workspace 3; exec /usr/bin/quasselclient'
 exec setxkbmap es
 exec kmix
 exec nm-applet
-
+exec compton -b
 
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
