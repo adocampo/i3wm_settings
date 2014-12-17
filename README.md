@@ -14,7 +14,7 @@ Features
 
 Installation
 ------------
-Make sure you have installed dmenu and python and simply put all the files on ~/.i3/
+Make sure you have installed all dependencies: dmenu, python and compton and simply put all the files on ~/.i3/
 
 
 Considerations
